@@ -7,6 +7,7 @@
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="20" border="0"></a>
 <a href="https://www.icloud.com/shortcuts/cf8e2bf75a8b4b78bc94fe1ae60b9ea5"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="20"></a>
 ****
+[[🇨🇳中文]](README.md)   [[🇯🇵日本語]](/docs/README_JP.md)   [[🇬🇧English]](/docs/README_EN.md)
 ## 简介
 “校车时间”是一个用来给日本广岛县福山大学的学生实时查询下一班校车的程序。
 灵感源自于一个晴朗的周五午后，即使我身处人工智能课的教室，但浮躁的我却早已归心似箭。
@@ -46,7 +47,8 @@ Lite版完全基于苹果的“快捷指令”,即前端没有一行业务代码
 |   Mac   |  ✅   |
 |   PC    |  ✅   |
 
-<a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>⬅️点击关注后即可使用
+<a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
+⬅️点击关注&使用
 ## 开源
 本程序使用GPL-3.0协议开源。
 我鼓励开源行为。你可以将此程序用于个人、专利甚至商业用途。
