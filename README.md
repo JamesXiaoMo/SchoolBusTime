@@ -47,3 +47,8 @@ Lite版完全基于苹果的“快捷指令”,即前端没有一行业务代码
 |   PC    |  ✅   |
 
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>⬅️点击关注后即可使用
+## 开源
+本程序使用GPL-3.0协议开源。
+我鼓励开源行为。你可以将此程序用于个人、专利甚至商业用途。
+但你必须在自己的程序中标明出处和原作者。
+禁止利用此软件开发任何闭源软件。
