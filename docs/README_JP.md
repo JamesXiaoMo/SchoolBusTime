@@ -16,9 +16,9 @@
 そこで「校车时间」のインスピレーションが生まれました。
 
 設計当初は「校车时间」はこんなアプリにしようと思っていました：
-* Fast
-* Safe
-* Easy to use
+* Quick Search
+* Safety
+* Simple and easy to use
 
 そこで、この目標を念頭に置いて「校车时间」が誕生しました。
 ****
