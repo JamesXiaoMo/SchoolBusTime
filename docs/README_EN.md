@@ -7,7 +7,7 @@
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="20" border="0"></a>
 <a href="https://www.icloud.com/shortcuts/cf8e2bf75a8b4b78bc94fe1ae60b9ea5"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="20"></a>
 ****
-[[🇨🇳中文]](README.md)   [[🇯🇵日本語]](/docs/README_JP.md)   [[🇬🇧English]](/docs/README_EN.md)
+[[🇨🇳中文]](/README.md)   [[🇯🇵日本語]](/docs/README_JP.md)   [[🇬🇧English]](/docs/README_EN.md)
 ## Description
 "校车时间" is a program used to check the next school bus in real time for students at Fukuyama University in Hiroshima, Japan.
 The inspiration came from a sunny Friday afternoon. Even though I was in the classroom of the Artificial Intelligence class, my impetuous mind had already returned home.

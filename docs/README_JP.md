@@ -7,7 +7,7 @@
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="20" border="0"></a>
 <a href="https://www.icloud.com/shortcuts/cf8e2bf75a8b4b78bc94fe1ae60b9ea5"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="20"></a>
 ****
-[[🇨🇳中文]](README.md)   [[🇯🇵日本語]](/docs/README_JP.md)   [[🇬🇧English]](/docs/README_EN.md)
+[[🇨🇳中文]](/README.md)   [[🇯🇵日本語]](/docs/README_JP.md)   [[🇬🇧English]](/docs/README_EN.md)
 ## 概要
 「校车时间」は、広島県福山大学の学生向けに、次のスクールバスをリアルタイムで確認するためのプログラムです。
 インスピレーションは、晴れた金曜日の午後に生まれました。私は人工知能の教室にいたにもかかわらず、私の衝動的な心はすでに家に帰っていました。
