@@ -49,6 +49,7 @@ Lite版は完全に Apple の「ショートカット命令」に基づいてい
 
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 ⬅️追加すると使用できます
+****
 ## オープンソース
 このプログラムは GPL-3.0 ライセンスを使用するオープンソースです。
 私はオープンソースの行動を奨励します。 このプログラムは、個人的、独占的、または商用目的で使用することができます。

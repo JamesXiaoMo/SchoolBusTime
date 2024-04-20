@@ -20,11 +20,27 @@ schedule.every().day.at('23:59:59').do(clear_traffic_data)
 
 
 @app.route('/')
-def GetData():
+def GetData_ZH():
     global traffic
     traffic += 1
     return ('松永->福山大: {str1}  福山大->松永: {str2}<br>{str3}'.format(
         str1=match_buses()[0], str2=match_buses()[1], str3=load_billboard()))
+
+
+@app.route('/JP')
+def GetData_JP():
+    global traffic
+    traffic += 1
+    return ('松永->福山大: {str1}  福山大->松永: {str2}'.format(
+        str1=match_buses()[0], str2=match_buses()[1]))
+
+
+@app.route('/EN')
+def GetData_EN():
+    global traffic
+    traffic += 1
+    return ('Matsunaga->FukuyamaUniv: {str1}  FukuyamaUniv->Matsunaga: {str2}'.format(
+        str1=match_buses()[0], str2=match_buses()[1]))
 
 
 def schedule_tasks():

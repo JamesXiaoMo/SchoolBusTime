@@ -49,6 +49,7 @@ After completing the addition of the shortcut, you can add the shortcut to the m
 
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 ⬅️Click to follow and use it
+****
 ## Open Source
 This program is open source using the GPL-3.0 license.
 I encourage open source behavior. You can use this program for personal, proprietary or even commercial use.
