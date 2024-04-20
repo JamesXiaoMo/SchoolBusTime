@@ -1,5 +1,5 @@
 # 🚌“校车时间”后端程序
-<a href="https://github.com/JamesXiaoMo/SchoolBusTime"><img src="images/ICON.png" height="288" border="0"></a>
+<div align="center"><a href="https://github.com/JamesXiaoMo/SchoolBusTime"><img src="images/ICON.png" height="288" border="0"></a></div>
 
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 <a href="https://github.com/JamesXiaoMo/SchoolBusTime"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="36"></a>
