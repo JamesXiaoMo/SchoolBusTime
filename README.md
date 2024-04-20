@@ -1,8 +1,11 @@
 # 🚌“校车时间”后端程序
 <div align="center"><a href="https://github.com/JamesXiaoMo/SchoolBusTime"><img src="images/ICON.png" height="288" border="0"></a></div>
 
+![Github Created At](https://img.shields.io/github/created-at/JamesXiaoMo/SchoolBusTime)
+![GitHub License](https://img.shields.io/github/license/JamesXiaoMo/SchoolBusTime)
+![GitHub last commit](https://img.shields.io/github/last-commit/JamesXiaoMo/SchoolBusTime)
 <a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
-<a href="https://github.com/JamesXiaoMo/SchoolBusTime"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="36"></a>
+<a href="https://www.icloud.com/shortcuts/cf8e2bf75a8b4b78bc94fe1ae60b9ea5"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="36"></a>
 ****
 ## 简介
 “校车时间”是一个用来给日本广岛县福山大学的学生实时查询下一班校车的程序。
@@ -30,5 +33,17 @@
 Lite版完全基于苹果的“快捷指令”,即前端没有一行业务代码，全部依托云计算完成。
 对于每一个用户来说，这意味着无比的安全且便捷。
 
-<a href=""><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="72" border="0"></a>
-⬅️点击下载
+<a href="https://www.icloud.com/shortcuts/cf8e2bf75a8b4b78bc94fe1ae60b9ea5"><img src="https://help.apple.com/assets/645D5D228BE0233D28263F4B/645D5D258BE0233D28263F5A/zh_CN/d230a25cb974f8908871af04caad89a1.png" height="72" border="0"></a>
+⬅️点击添加
+
+在完成快捷指令的添加后，可以在快捷指令的右上角【...】按钮中将该快捷指令添加到桌面
+
+### Line版
+|   平台    | 适配情况 |
+|:-------:|:----:|
+| iPhone  |  ✅   |
+| Android |  ✅   |
+|   Mac   |  ✅   |
+|   PC    |  ✅   |
+
+<a href="https://lin.ee/4wdKd1v"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>⬅️点击关注后即可使用
