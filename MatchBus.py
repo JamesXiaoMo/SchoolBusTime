@@ -89,7 +89,9 @@ def load_billboard():
 
 
 def save_traffic_data(traffic_data: int):
+    data = "{str1}\nToday's traffic : {str2}\n".format(
+            str1=datetime.today().strftime('%Y-%m-%d'), str2=str(traffic_data))
+    print(data)
     with open('traffic.txt', 'a', encoding='utf-8') as f:
-        f.write("{str1}\nToday's traffic : {str2}\n".format(
-            str1=datetime.today().strftime('%Y-%m-%d'), str2=str(traffic_data)))
+        f.write(data)
         f.close()
